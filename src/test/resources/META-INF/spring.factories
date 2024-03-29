@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = com.cloudsuite.core.\
+    config.SqlTestContainersSpringContextCustomizerFactory,com.cloudsuite.core.\
+    config.KafkaTestContainersSpringContextCustomizerFactory
