@@ -1,5 +1,4 @@
 package com.cloudsuite.core.repository;
 
-public cçass DistrictRepositort {
-    
+public class DistrictRepository {
 }
